@@ -23,4 +23,4 @@
 3. HAproxy балансирует только тот http-трафик, который адресован домену example.local.
 
 
-![screen2](./img/screen2.png)[Документация](docs.md)
+![screen2](./img/screen2.png)
